@@ -1,0 +1,26 @@
+_repo: Your-Plants--13-Plain-and-Practical-Directions-for-the-Treatment-of-Tender-and-Hardy-Plants-i__21442
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheehan, James
+    gutenberg_agent_id: '9923'
+    url: http://www.gutenberg.org/2009/agents/9923
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2007-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Flower gardening'
+title: "Your Plants\r\nPlain and Practical Directions for the Treatment of Tender\
+  \ and Hardy Plants in the House and in the Garden"
+url: http://www.gutenberg.org/ebooks/21442
